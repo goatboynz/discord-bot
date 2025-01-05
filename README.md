@@ -200,10 +200,8 @@ If you encounter any issues or need help:
 If you find this bot helpful and want to support its development, you can make a donation! Your support helps maintain and improve the bot.
 
 ### Donate via PayPal
-[![PayPal](https://img.shields.io/badge/PayPal-Donate-blue.svg)](https://paypal.me/kiwidabman)
+https://www.paypal.com/ncp/payment/8A3D27S7DFPSY
 
-- Email: kiwidabman@gmail.com
-- Link: [PayPal.me/kiwidabman](https://paypal.me/kiwidabman)
 
 Your donations help:
 - 🚀 Keep the bot running 24/7
