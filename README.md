@@ -195,6 +195,25 @@ If you encounter any issues or need help:
 2. Make sure the bot has administrator permissions
 3. Check the error messages for specific issues
 
+## Support the Project 💝
+
+If you find this bot helpful and want to support its development, you can make a donation! Your support helps maintain and improve the bot.
+
+### Donate via PayPal
+[![PayPal](https://img.shields.io/badge/PayPal-Donate-blue.svg)](https://paypal.me/kiwidabman)
+
+- Email: kiwidabman@gmail.com
+- Link: [PayPal.me/kiwidabman](https://paypal.me/kiwidabman)
+
+Your donations help:
+- 🚀 Keep the bot running 24/7
+- 💻 Develop new features
+- 🛠️ Maintain and improve existing features
+- 📚 Create better documentation
+
+### Supporters
+We appreciate all our supporters! Donors will be acknowledged here (with permission).
+
 ## Note ⚠️
 
 - The bot requires administrator permissions
